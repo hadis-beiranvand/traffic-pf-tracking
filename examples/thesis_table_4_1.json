@@ -1,0 +1,8 @@
+[
+  {"street": 3, "position": 20, "goal_street": 3, "acceleration": 3, "speed": 2, "size": 5},
+  {"street": 3, "position": 43, "goal_street": 2, "acceleration": 4, "speed": 3, "size": 5},
+  {"street": 2, "position": 21, "goal_street": 4, "acceleration": 0, "speed": 1, "size": 5},
+  {"street": 4, "position": 22, "goal_street": 1, "acceleration": 5, "speed": 5, "size": 5},
+  {"street": 1, "position": 23, "goal_street": 3, "acceleration": 2, "speed": 4, "size": 5},
+  {"street": 1, "position": 41, "goal_street": 1, "acceleration": 0, "speed": 0, "size": 5}
+]
